@@ -7,3 +7,6 @@ Day 0:
 - I could insert the first image to this Readme.md file
 - I ran the first code of mine here:
 ![Alt text]( draft_resources/terminal_image_that_shows_day0.png "Title")
+- Now I know differences between \' and \"
+- I know how to give an input from user and assign it to a variable.
+- Now I can change a line of code to comment, which is not executed.
