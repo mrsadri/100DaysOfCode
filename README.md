@@ -10,4 +10,3 @@ Day 0:
 - Now I know differences between \' and \"
 - I know how to give an input from user and assign it to a variable.
 - Now I can change a line of code to comment, which is not executed.
-- test
