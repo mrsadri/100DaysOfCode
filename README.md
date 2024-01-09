@@ -10,7 +10,8 @@ Welcome to my 100-day coding adventure, where I'll be relentlessly exploring Pyt
 
   ```python
   print("Hello " + input("What is your " + input("What data do you want to share with me? Name or NickName?\n") + "? \n") + "!")
-  
+  ```
+
 ![Python Parsing Example](<draft_resources/Screenshot 2024-01-09 at 12.52.36 PM.png>)
 
 - **Mathematical and Conditional Operations:** Mastered their application.
@@ -26,8 +27,9 @@ Welcome to my 100-day coding adventure, where I'll be relentlessly exploring Pyt
 - **Tool Installation:** Installed VS Code and Python, the essential development tools.
 - **Git Configuration:** Configured Git on the terminal to enable pushing commits, using the following command:
 
-  bash
+  ```bash
   git remote set-url origin https://<token>@[github.com/](https://github.com/)<username>/<repo>
+  ```
   
 
 - **First Image Insertion:** Mastered embedding images within the README.md file.
@@ -38,9 +40,9 @@ Welcome to my 100-day coding adventure, where I'll be relentlessly exploring Pyt
 - **Commenting Code:** Discovered how to transform lines of code into non-executable comments.
 - **Git Push to Main Branch:** Successfully pushed code to the main branch using:
 
-  bash
+  ```bash
   git push -u origin main
-  
+  ```
 
 - **Branch Awareness:** Recognized the distinction between pushing to `main` and `master` branches and their implications for merge requests.
 
