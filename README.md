@@ -2,7 +2,7 @@
 
 Welcome to my 100-day coding adventure, where I'll be relentlessly exploring Python's capabilities to venture into data science, automation, web development, game creation, and app development! This repository will chronicle my progress, discoveries, and the amazing projects I build along the way. 
 
-## Day 2: Structuring Code for Clarity and Efficiency
+## Day 3: Structuring Code for Clarity and Efficiency
 
 **Key Discoveries:**
 
@@ -14,31 +14,37 @@ Welcome to my 100-day coding adventure, where I'll be relentlessly exploring Pyt
     Class name: ...
     Functionality: ...
     """
+    # -------------------------------------------- #
 
     ## 2. Libraries
+    # -------------------------------------------- #
 
     ## 3. Functions
+    # -------------------------------------------- #
 
     ## 4. Static Variables
+    # -------------------------------------------- #
 
     ## 5. User Entries
+    # -------------------------------------------- #
 
     ## 6. Main Class Action
+    # -------------------------------------------- #
 
     ## 7. Draft, Tests, TODO List, References
+    # -------------------------------------------- #
     ```
 
-- **Multiple Cursor Productivity Boost:** Mastered multi-cursor editing for efficient code manipulation using the `option` key.
-- **Function Mastery:** Gained expertise in defining and using custom functions.
-- **Random Selection Savvy:** Learned to randomly pick items from sets.
-- **Looping Expertise:** Conquered both `for` and `while` loops for repetitive tasks.
-- **String Formatting and Conditional Printing:** Explored f-strings and conditional printing techniques.
-- **Module Importation:** Unlocked the ability to import and utilize code from other Python files.
+- **Multi-Cursor Productivity:** Discovered the time-saving ability to create multiple cursors by holding the `option` key and clicking on code, enabling simultaneous editing.
+- **Function Mastery:** Gained proficiency in defining and utilizing custom functions.
+- **Random Selection:** Unlocked the ability to randomly pick items from sets.
+- **Loop Control:** Mastered both `for` and `while` loops for iterative operations.
+- **Formatted Strings and Conditional Printing:** Enhanced string formatting with `f-strings` and conditional printing with `print-if`.
+- **File Integration:** Learned to import and utilize functions and classes from other Python files.
+- **List and Range Mastery:** Gained expertise in working with lists, including indexing with negative values, Working with Append and Extend functions. 
 
-Stay tuned as I continue to delve deeper into Python's capabilities and create even more exciting projects! 
 
-
-## Day 1: Unveiling Python's Inner Workings 
+## Day 2: Unveiling Python's Inner Workings 
 
 **Key Insights:**
 
@@ -56,7 +62,7 @@ Stay tuned as I continue to delve deeper into Python's capabilities and create e
 - **Built-in Functions:** Harnessed the power of functions like `random.randrange(a, b)` and `round()`.
 - **Tip Calculator:** Successfully developed a practical program.
 
-## Day 0: Setting the Stage 
+## Day 1: Setting the Stage 
 
 **Foundational Steps:**
 
