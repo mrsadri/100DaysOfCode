@@ -2,6 +2,42 @@
 
 Welcome to my 100-day coding adventure, where I'll be relentlessly exploring Python's capabilities to venture into data science, automation, web development, game creation, and app development! This repository will chronicle my progress, discoveries, and the amazing projects I build along the way. 
 
+## Day 2: Structuring Code for Clarity and Efficiency
+
+**Key Discoveries:**
+
+- **Structured Code Template:** Adopted a clear 7-section template for Python files, promoting organization and maintainability:
+
+    ```python
+    ## 1. Description
+    """
+    Class name: ...
+    Functionality: ...
+    """
+
+    ## 2. Libraries
+
+    ## 3. Functions
+
+    ## 4. Static Variables
+
+    ## 5. User Entries
+
+    ## 6. Main Class Action
+
+    ## 7. Draft, Tests, TODO List, References
+    ```
+
+- **Multiple Cursor Productivity Boost:** Mastered multi-cursor editing for efficient code manipulation using the `option` key.
+- **Function Mastery:** Gained expertise in defining and using custom functions.
+- **Random Selection Savvy:** Learned to randomly pick items from sets.
+- **Looping Expertise:** Conquered both `for` and `while` loops for repetitive tasks.
+- **String Formatting and Conditional Printing:** Explored f-strings and conditional printing techniques.
+- **Module Importation:** Unlocked the ability to import and utilize code from other Python files.
+
+Stay tuned as I continue to delve deeper into Python's capabilities and create even more exciting projects! 
+
+
 ## Day 1: Unveiling Python's Inner Workings 
 
 **Key Insights:**
@@ -28,10 +64,9 @@ Welcome to my 100-day coding adventure, where I'll be relentlessly exploring Pyt
 - **Git Configuration:** Configured Git on the terminal to enable pushing commits, using the following command:
 
   ```bash
-  git remote set-url origin https://<token>@[github.com/](https://github.com/)<username>/<repo>
+  git remote set-url origin https://<token>@github.com/<username>/<repo>
   ```
   
-
 - **First Image Insertion:** Mastered embedding images within the README.md file.
 - **Initial Code Execution:** Ran my first Python code, marking a momentous beginning!
 
