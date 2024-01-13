@@ -44,7 +44,7 @@ Welcome to my 100-day coding adventure, where I'll be relentlessly exploring Pyt
 - **List and Range Mastery:** Gained expertise in working with lists, including indexing with negative values, Working with Append and Extend functions. 
 
 
-## Day 2: Unveiling Python's Inner Workings 
+## Day 2: Unveiling Python's Syntax 
 
 **Key Insights:**
 

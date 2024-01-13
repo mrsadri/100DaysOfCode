@@ -12,6 +12,7 @@ import random
 
 ## 3 out of 7: Functions
 def set_random():
+    """ A description about set_random()"""
     # Select a random choice
     a = random.choice(options)
     print(f"the random ammount that is assigned is '{a}' which means {translator(a)}")

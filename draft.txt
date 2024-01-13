@@ -1,0 +1,16 @@
+I want to create a programe which:
+- Detects standard plates on cars
+- genetrates random maze
+
+## My plan:
+
+# Jan 13 to 16 2024
+- study about f-string and striong formatter
+- Videos of Angela Yu from day 9 to 14
+
+# Jan 17 to 20 2024:
+- Learn OOP by python: Youtube
+- Videos of Angela Yu from day 15 to 20
+
+# Jan 21 to 24 2024:
+- 
