@@ -2,11 +2,13 @@
 
 Welcome to my 100-day coding adventure, where I'll be relentlessly exploring Python's capabilities to venture into data science, automation, web development, game creation, and app development! This repository will chronicle my progress, discoveries, and the amazing projects I build along the way. 
 
+## Day 5: Tuples and Blackjack
+- Unveiled the Immutable Nature of Tuples: Explored how tuples are unchangeable once created, but learned workarounds using lists.
+- Developed a Logical Blackjack Game: Applied Python skills to create a fully functional Blackjack game! ♠️♥️♣️♦️
 
-## Day 4:  
+
+## Day 4: 
 - Now I know how to comment on a function that when someone want to use it know how to use it. This is called adding Docstring to function
-
-
 
 ## Day 3: Structuring Code for Clarity and Efficiency
 
