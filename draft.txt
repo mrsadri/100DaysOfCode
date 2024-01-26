@@ -2,15 +2,12 @@ I want to create a programe which:
 - Detects standard plates on cars
 - genetrates random maze
 
-## My plan:
+My questions:
+    What is '''.join''' in python?
+    How can I write a function such as lowercase() that is called after argument?
+    How can I make some of my variable as a private which are not accesible outside of the class?
+    What is Venv and why we use it? how can I use it?
 
-# Jan 13 to 16 2024
-- study about f-string and striong formatter
-- Videos of Angela Yu from day 9 to 14
-
-# Jan 17 to 20 2024:
-- Learn OOP by python: Youtube
-- Videos of Angela Yu from day 15 to 20
-
-# Jan 21 to 24 2024:
-- 
+What I want to search on youtube:
+    - Basic of OOP in python
+    - How to debuge and trace python code by vscode
