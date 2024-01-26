@@ -2,15 +2,31 @@
 
 Welcome to my 100-day coding adventure, where I'll be relentlessly exploring Python's capabilities to venture into data science, automation, web development, game creation, and app development! This repository will chronicle my progress, discoveries, and the amazing projects I build along the way. 
 
-## Day 5: Tuples and Blackjack
-- Unveiled the Immutable Nature of Tuples: Explored how tuples are unchangeable once created, but learned workarounds using lists.
-- Developed a Logical Blackjack Game: Applied Python skills to create a fully functional Blackjack game! ♠️♥️♣️♦️
+## Day 5:
+- I know by using this command in terminal, I can have interactive python interpreter to check some values in code:
+  ```bash
+  python3 -i filename.py
+  ```
+- I created my first class and object in python
+- Now I know how to write initializer method
+- How to import some methods of a Class
+- I learnt how to set default value for arguments of a function
 
 
-## Day 4: 
-- Now I know how to comment on a function that when someone want to use it know how to use it. This is called adding Docstring to function
+## Day 5: Tuples, Blackjack, and the Art of Immutability 
 
-## Day 3: Structuring Code for Clarity and Efficiency
+**Key Achievements:**
+
+- **Grasping the Essence of Tuples:** Explored the immutable nature of tuples, understanding their unchangeable nature and exploring workarounds using lists.
+- **Developing a Captivating Blackjack Game:** Applied Python prowess to create a fully functional Blackjack game, ready to deal out excitement! ♠️♥️♣️♦️
+
+## Day 4: Docstrings – Guiding the Way for Clarity 
+
+**Key Insight:**
+
+- **Function Documentation Mastery:** Learned the art of adding Docstrings to functions, providing clear instructions for users and enhancing code readability.
+
+## Day 3: Crafting a Blueprint for Code Clarity and Efficiency 
 
 **Key Discoveries:**
 
@@ -40,6 +56,9 @@ Welcome to my 100-day coding adventure, where I'll be relentlessly exploring Pyt
     # -------------------------------------------- #
 
     ## 7. Draft, Tests, TODO List, References
+    # -------------------------------------------- #
+
+    ## 8. Document Tracking: Recording Imports by others
     # -------------------------------------------- #
     ```
 

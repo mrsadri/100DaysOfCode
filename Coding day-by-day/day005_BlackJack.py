@@ -109,7 +109,7 @@ def winner_check(card_side_one, card_side_two):
 # -------------------------------------------- #
 
 ## 4. Static Variables
-suits = ["Hearts", "Diamonds", "Clubs", "Spades"]
+suits = ["♥️", "♦️", "♣️", "♠️"]
 ranks = ["2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K", "A"]
 
 # Create a list of all cards

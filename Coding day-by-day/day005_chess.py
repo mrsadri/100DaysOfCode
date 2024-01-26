@@ -74,5 +74,5 @@ class MyString(str):
 
 # Usage
 my_str = MyString("shoombool")
-print(my_str.masihDoubled(4))
+print(my_str.masihDoubled(12))
 # -------------------------------------------- #
