@@ -2,6 +2,10 @@
 
 Welcome to my 100-day coding adventure, where I'll be relentlessly exploring Python's capabilities to venture into data science, automation, web development, game creation, and app development! This repository will chronicle my progress, discoveries, and the amazing projects I build along the way.
 
+## day 6 and 7:
+
+- Now I know how to import a library from `PyPi.org`
+
 ## Day 5:
 
 - I know by using this command in terminal, I can have interactive python interpreter to check some values in code:
@@ -33,32 +37,49 @@ Welcome to my 100-day coding adventure, where I'll be relentlessly exploring Pyt
 - **Structured Code Template:** Adopted a clear 7-section template for Python files, promoting organization and maintainability:
 
   ```python
-  ## 1. Description
+  ## 0. Module Description
   """
-  Class name: ...
+  Module name: ...
   Functionality: ...
   """
   # -------------------------------------------- #
 
-  ## 2. Libraries
+
+  ## 1. External Data models and Libraries
   # -------------------------------------------- #
 
-  ## 3. Functions
+
+
+  ## 2. Class Description
+  """
+  Class name: ...
+  Functionality: ...
+  """
+  class ClassName:
+      """
+      Class Description is here"""
+  ## -------------------------------------------- #
+
+  ### 2.1 Functions
+      def __init__(self) -> None:
+          pass
   # -------------------------------------------- #
 
-  ## 4. Static Variables
+  ### 2.2 Static Variables
   # -------------------------------------------- #
 
-  ## 5. User Entries
+  ### 2.3 User Entries
   # -------------------------------------------- #
 
-  ## 6. Main Class Action
+  ### 2.4 Class Action
+  # -------------------------------------------- #
   # -------------------------------------------- #
 
-  ## 7. Draft, Tests, TODO List, References
+
+  ## 3. Draft, Tests, TODO List, References
   # -------------------------------------------- #
 
-  ## 8. Document Tracking: Recording Imports by others
+  ## 4. Document Tracking: Recording Imports by others
   # -------------------------------------------- #
   ```
 
